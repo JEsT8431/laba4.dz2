@@ -23,7 +23,6 @@
     SetResult0 --> Output
     
     Output --> End((Конец))
-<img width="358" height="781" alt="dz4" src="https://github.com/user-attachments/assets/ceb5acbb-8b14-4c1f-b9c1-f39b36cad110" />
 
 <img width="122" height="502" alt="image" src="https://github.com/user-attachments/assets/7551e9c4-8f58-4f53-87fa-057b7878111c" />
 
