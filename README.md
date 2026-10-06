@@ -24,7 +24,7 @@
     
     Output --> End((Конец))
 
-<img width="122" height="502" alt="image" src="https://github.com/user-attachments/assets/7551e9c4-8f58-4f53-87fa-057b7878111c" />
+<img width="122" height="502" alt="image" src="https://github.com/user-attachments/assets/613beaf0-772c-4d46-9f0b-8a0b295bf45a" />
 
     
 ## 2. Реализация программы
